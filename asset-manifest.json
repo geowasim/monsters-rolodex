@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geowasim/monsters-rolodex/static/css/main.078caf4d.chunk.css",
+    "main.js": "/geowasim/monsters-rolodex/static/js/main.10978ea1.chunk.js",
+    "main.js.map": "/geowasim/monsters-rolodex/static/js/main.10978ea1.chunk.js.map",
+    "runtime-main.js": "/geowasim/monsters-rolodex/static/js/runtime-main.0eff33f7.js",
+    "runtime-main.js.map": "/geowasim/monsters-rolodex/static/js/runtime-main.0eff33f7.js.map",
+    "static/js/2.308474c0.chunk.js": "/geowasim/monsters-rolodex/static/js/2.308474c0.chunk.js",
+    "static/js/2.308474c0.chunk.js.map": "/geowasim/monsters-rolodex/static/js/2.308474c0.chunk.js.map",
+    "index.html": "/geowasim/monsters-rolodex/index.html",
+    "precache-manifest.de766cb9d23e0c1ffea7f9097834db03.js": "/geowasim/monsters-rolodex/precache-manifest.de766cb9d23e0c1ffea7f9097834db03.js",
+    "service-worker.js": "/geowasim/monsters-rolodex/service-worker.js",
+    "static/css/main.078caf4d.chunk.css.map": "/geowasim/monsters-rolodex/static/css/main.078caf4d.chunk.css.map",
+    "static/js/2.308474c0.chunk.js.LICENSE.txt": "/geowasim/monsters-rolodex/static/js/2.308474c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0eff33f7.js",
+    "static/js/2.308474c0.chunk.js",
+    "static/css/main.078caf4d.chunk.css",
+    "static/js/main.10978ea1.chunk.js"
+  ]
+}
