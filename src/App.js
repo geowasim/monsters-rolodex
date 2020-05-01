@@ -28,7 +28,7 @@ componentDidMount(){
     const filteredMonsters = monsters.filter(monster=>monster.name.toLowerCase().includes(searchField.toLocaleLowerCase()))
     return (
       <div className="App">
-      <h1> Monsters Rolodex</h1>
+      <h2> Monsters Rolodex</h2>
       <SearchBox
        placeholder='Search Monster'
        handleChange ={this.handleChange} />
